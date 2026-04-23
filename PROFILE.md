@@ -16,3 +16,4 @@ Bienvenido a mi perfil de GitHub.
 
 ## Objetivo
 Seguir practicando hasta sentirme cómodo usando GitHub.
+He completado mi primer ejercicio de GitHub.
